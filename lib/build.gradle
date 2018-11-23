@@ -7,8 +7,8 @@ android {
     defaultConfig {
         minSdkVersion 15
         targetSdkVersion 27
-        versionCode 1
-        versionName "1.0.0"
+        versionCode 20181123
+        versionName "1.0.1"
     }
 
     buildTypes {
@@ -21,7 +21,7 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.yangwb1259883028:res:1.0.3'
+    compileOnly 'com.github.yangwb1259883028:res:1.0.3'
     api 'com.github.yangwb1259883028:select:1.1.5'
 }
 
