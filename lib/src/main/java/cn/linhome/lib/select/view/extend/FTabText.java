@@ -4,7 +4,6 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
-import cn.linhome.lib.select.R;
 import cn.linhome.lib.select.view.FSelectView;
 
 public class FTabText extends FSelectView
