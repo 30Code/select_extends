@@ -5,7 +5,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.TextView;
 
-import cn.linhome.lib.R;
+import cn.linhome.lib.select.R;
 import cn.linhome.lib.select.view.FSelectView;
 
 public class FTabUnderline extends FSelectView

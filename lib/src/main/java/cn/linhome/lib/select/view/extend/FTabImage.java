@@ -4,7 +4,7 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.ImageView;
 
-import cn.linhome.lib.R;
+import cn.linhome.lib.select.R;
 import cn.linhome.lib.select.view.FSelectView;
 
 public class FTabImage extends FSelectView
