@@ -1,14 +1,14 @@
 apply plugin: 'com.android.library'
 
-group = 'com.github.yangwb1259883028'
+group = 'com.github.30Code'
 
 android {
     compileSdkVersion 27
     defaultConfig {
         minSdkVersion 15
-        targetSdkVersion 22
-        versionCode 20181126
-        versionName "1.0.1"
+        targetSdkVersion 27
+        versionCode 20181208
+        versionName "1.0.2"
     }
 
     buildTypes {
@@ -21,7 +21,7 @@ android {
 }
 
 dependencies {
-    api 'com.github.yangwb1259883028:select:1.1.5'
+    api 'com.github.30Code:select:1.1.6'
 }
 
 // 指定编码
