@@ -8,7 +8,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 29
         versionCode 20200801
-        versionName "1.0.3"
+        versionName "1.0.4"
     }
 
     buildTypes {
@@ -21,7 +21,7 @@ android {
 }
 
 dependencies {
-    api 'com.github.30Code:select:1.1.7'
+    api 'com.github.30Code:select:1.1.8'
 }
 
 // 指定编码
